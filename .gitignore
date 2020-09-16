@@ -1,14 +1,14 @@
 #Unreal Generated Files#
-#*/Build
-*/Binaries
-*/DerivedDataCache
-*/Intermediate
-*/Saved
+#Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
 
 #Asset Files#
-*/Content/ArbitraryStudio
-*/Content/Maps
-*/Content/Vegetations
+Content/ArbitraryStudio/
+Content/Maps/
+Content/Vegetations/
 
 #VS Generated Files#
-*/.vs
+.vs/
