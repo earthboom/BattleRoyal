@@ -3,7 +3,16 @@
 Binaries/
 DerivedDataCache/
 Intermediate/
-Saved/
+
+#Save Files#
+Saved/AssetData/
+Saved/Autosaves/
+Saved/Backup/
+Saved/Collections/
+Saved/Crashes/
+Saved/Logs/
+Saved/Screenshots/
+Saved/Config/CrashReportClient/
 
 #Asset Files#
 Content/
